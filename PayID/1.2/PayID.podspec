@@ -29,7 +29,7 @@ TODO: Add long description of the pod here.
     im.source_files = 'PayID/IDF/IDFM/**/*'
     end
 
-    s.subspec 'IDFV' do |idv|
+    idf.subspec 'IDFV' do |idv|
     idv.source_files = 'PayID/IDF/IDFV/**/*'
     end
 
